@@ -14,4 +14,4 @@ Essa iniciativa é uma excelente oportunidade para:
 - Aprimorar os fundamentos de **estruturas de dados** e **algoritmos**.
 - Construir confiança para enfrentar **entrevistas técnicas**.
 
-Explore as soluções e acompanhe minha evolução neste emocionante desafio do LeetCode 75! 🚀
+Explore as soluções e acompanhe minha evolução neste desafio do LeetCode 75! 🚀
