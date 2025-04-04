@@ -4,12 +4,10 @@ public class Solution {
         List<bool> eMaior = new List<bool>(); 
         
         for(int i = 0; i < candies.Length; i++){
-            if(candies[i] + extraCandies < Maior){
-                eMaior.Add(false);
-            } else{
-                eMaior.Add(true);
-            }
+           
+                eMaior.Add((candies[i] + extraCandies >= Maior));
         }
+        
         return eMaior;
     }
 }
