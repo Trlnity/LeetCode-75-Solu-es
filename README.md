@@ -9,7 +9,7 @@ O plano aborda tópicos fundamentais como:
 - **Árvores**
 - **Busca Binária**, entre outros.
 
-Essa iniciativa é uma excelente oportunidade para:
+Essa desafio é uma excelente oportunidade para:
 - Praticar **pensamento lógico**.
 - Aprimorar os fundamentos de **estruturas de dados** e **algoritmos**.
 - Construir confiança para enfrentar **entrevistas técnicas**.
